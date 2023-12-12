@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/shufo/timed-url-opener/compare/v1.0.0...v1.0.1) (2023-12-12)
+
+
+### Bug Fixes
+
+* 🐛 delete unnecessary file ([7c3e65a](https://github.com/shufo/timed-url-opener/commit/7c3e65aa6a7a6cb0ab20b7cbdb595ce866c1ac36))
+
 ## 1.0.0 (2023-12-12) First release
 
 
