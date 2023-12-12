@@ -2,7 +2,7 @@
   "name": "timed-url-opener",
   "displayName": "Timed url opener",
   "version": "0.1.0",
-  "description": "Automatically open specific URL at scheduled time.",
+  "description": "Automatically open a specific URL at scheduled time in your browser",
   "author": "Shuhei Hayashibara",
   "scripts": {
     "dev": "plasmo dev",
