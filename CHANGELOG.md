@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 (2023-12-12)
+## 1.0.0 (2023-12-12) First release
 
 
 ### Features
