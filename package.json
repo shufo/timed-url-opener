@@ -1,7 +1,7 @@
 {
   "name": "timed-url-opener",
   "displayName": "Timed URL Opener",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Automatically open a specific URL at scheduled time in your browser",
   "author": "Shuhei Hayashibara",
   "scripts": {
