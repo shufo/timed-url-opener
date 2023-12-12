@@ -8,13 +8,18 @@ import activeIcon from "../assets/icon_active_32x32.png"
 // @ts-ignore
 import inactiveIcon from "../assets/icon_inactive_32x32.png"
 
+const defaultTitle = "Timed URL Opener"
 
 const main = async () => {
 
     const storage = new Storage();
 
-    chrome.runtime.onStartup.addListener(function () {
-        updateAlarms();
+    chrome.runtime.onInstalled.addListener(async () => {
+        await updateAlarms();
+    });
+
+    chrome.runtime.onStartup.addListener(async () => {
+        await updateAlarms();
     });
 
     chrome.action.onClicked.addListener(function (tab) {
@@ -83,6 +88,14 @@ const main = async () => {
         } else {
             setIconInactive()
         }
+
+        // set badge text
+        const enabledInputs = inputs.filter(({ url, enabled }) => url.length > 0 && enabled);
+        const badgeText = enabledInputs.length > 0 ? enabledInputs.length.toString() : "";
+        chrome.action.setBadgeText({ text: badgeText });
+
+        // set title
+        chrome.action.setTitle({ title: enabledInputs.length > 0 ? `${defaultTitle} (${enabledInputs.length} active schedules)` : defaultTitle });
     }
 
     function setIconActive() {
