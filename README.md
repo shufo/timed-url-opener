@@ -1,6 +1,6 @@
 # Timed URL Opener
 
-Automatically open specific URL at scheduled time
+Automatically open a specific URL at a scheduled time  in your browser 
 
 ## Screenshot
 
