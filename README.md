@@ -4,8 +4,8 @@ Automatically open specific URL at scheduled time
 
 ## Screenshot
 
-<img height="350" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
-<img height="350" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a311b23e-85cb-4e02-af2c-d57fead33d92">
+<img height="300" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
+<img height="300" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a311b23e-85cb-4e02-af2c-d57fead33d92">
 
 ## Usage
 
