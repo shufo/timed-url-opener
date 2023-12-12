@@ -4,8 +4,8 @@ Automatically open specific URL at scheduled time
 
 ## Screenshot
 
-<img height="400" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
-<img height="400" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a311b23e-85cb-4e02-af2c-d57fead33d92">
+<img height="350" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
+<img height="350" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a311b23e-85cb-4e02-af2c-d57fead33d92">
 
 ## Usage
 
@@ -31,6 +31,13 @@ You can change theme from sidebar settings
 
 <img width="600" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/7f0f71ec-e7a9-4306-9451-ab2210523f45">
 
+|Light|Nord|Valentine|Retro|Lofi|Cupcake|
+|--|--|--|--|--|--|
+|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/e8438d12-8561-4d53-b7d0-6973d1645b5e">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/ca933492-e14c-4983-813d-2e253af63f18">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/2c7961a9-7eb9-42bd-8e7e-a578adf52d38">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/2523d004-2077-44d2-bc28-a2cd3177752f">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/056f5c87-aded-4217-86ce-0d7e10f84cfd">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/1b3efe0b-074d-4430-a5a2-cd85c6d484a5">|
+
+|Dark|Dracula|Dim|Synthwave|Sunset|Coffee|
+|--|--|--|--|--|--|
+|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/64e8cdda-fed7-4618-981b-b7a7a8883374">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/fac8fd35-bae8-425f-a673-ff4e6e09f601">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/5fd5db96-0c39-4825-b358-6454b5190c20">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/ba3a6a96-c322-45a9-858f-ba0c295a4369">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/5cc74561-2994-4c4c-9de0-bba7a85c0aef">|<img width="100" src="https://github.com/shufo/timed-url-opener/assets/1641039/7ed63eb7-d79b-46ff-b287-df2666a79966">|
 
 ## Development
 
