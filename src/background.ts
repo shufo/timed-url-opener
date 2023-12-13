@@ -8,7 +8,9 @@ import activeIcon from "../assets/icon_active_32x32.png"
 // @ts-ignore
 import inactiveIcon from "../assets/icon_inactive_32x32.png"
 
-const defaultTitle = "Timed URL Opener"
+const env = process.env.NODE_ENV;
+const envPrefix = env === "development" ? "DEV | " : "";
+const defaultTitle = `${envPrefix}Timed URL Opener`
 
 const main = async () => {
 
