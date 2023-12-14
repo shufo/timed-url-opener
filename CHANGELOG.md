@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/shufo/timed-url-opener/compare/v1.0.1...v1.0.2) (2023-12-14)
+
+
+### Bug Fixes
+
+* 🐛 service worker unexpectedly stops after short period ([cd6f023](https://github.com/shufo/timed-url-opener/commit/cd6f023f425b21cb69a6aa0ec6f35385ebc2733e))
+
 ## [1.0.1](https://github.com/shufo/timed-url-opener/compare/v1.0.0...v1.0.1) (2023-12-12)
 
 
