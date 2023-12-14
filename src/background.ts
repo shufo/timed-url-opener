@@ -16,13 +16,18 @@ const main = async () => {
 
     const storage = new Storage();
 
+    const keepAlive = () => setInterval(chrome.runtime.getPlatformInfo, 20e3);
+
     chrome.runtime.onInstalled.addListener(async () => {
         await updateAlarms();
     });
 
     chrome.runtime.onStartup.addListener(async () => {
         await updateAlarms();
+        keepAlive();
     });
+
+    keepAlive();
 
     chrome.action.onClicked.addListener(function (tab) {
         chrome.runtime.openOptionsPage(() => console.log("options page opened"));
