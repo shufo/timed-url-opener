@@ -21,10 +21,10 @@ jobs:
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
 
       - name: Install dependencies
-      run: yarn install
+        run: yarn install
 
       - name: build extension
-      run: yarn run build
+        run: yarn run build
 
       - name: Browser Platform Publish
         uses: PlasmoHQ/bpp@v3
