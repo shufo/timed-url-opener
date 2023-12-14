@@ -26,6 +26,9 @@ jobs:
       - name: build extension
         run: yarn run build
 
+      - name: package extension
+        run: yarn run package 
+
       - name: Browser Platform Publish
         uses: PlasmoHQ/bpp@v3
         with:
