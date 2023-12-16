@@ -2,7 +2,7 @@
 
 Automatically open a specific URL at a scheduled time  in your browser 
 
-![screencast](https://github.com/shufo/timed-url-opener/assets/1641039/5220a7d4-5862-4026-86f8-b1c84aaffafa)
+![screencast](https://github.com/shufo/timed-url-opener/assets/1641039/6f2155e6-ab90-4921-a48c-297380c5e308)
 
 ## Screenshot
 
