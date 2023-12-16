@@ -4,6 +4,13 @@ Automatically open a specific URL at a scheduled time  in your browser
 
 ![screencast](https://github.com/shufo/timed-url-opener/assets/1641039/6f2155e6-ab90-4921-a48c-297380c5e308)
 
+## Features
+- Open a specific URL at a scheduled time
+  - Frequency by every xx minutes/hours/days, daily and weekday
+- Open in Background option
+- You can change Enbaled/Disabled per schedules
+- You can change Color schemes (Dark Themes/Light Themes)
+
 ## Screenshot
 
 <img height="300" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
