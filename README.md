@@ -6,7 +6,7 @@ Automatically open a specific URL at a scheduled time  in your browser
 
 ## Features
 - Open a specific URL at a scheduled time
-  - Frequency by every xx minutes/hours/days, daily and weekday
+  - Frequency by every xx minutes/hours/days, daily, weekday and One-time
 - Open in Background option
 - You can change Enbaled/Disabled per schedules
 - You can change Color schemes (Dark Themes/Light Themes)
