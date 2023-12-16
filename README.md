@@ -2,6 +2,8 @@
 
 Automatically open a specific URL at a scheduled time  in your browser 
 
+![screencast](https://github.com/shufo/timed-url-opener/assets/1641039/5220a7d4-5862-4026-86f8-b1c84aaffafa)
+
 ## Screenshot
 
 <img height="300" alt="image" src="https://github.com/shufo/timed-url-opener/assets/1641039/a380ab13-39f5-4e26-a9a7-a328322eed57">
