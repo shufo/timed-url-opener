@@ -2075,9 +2075,9 @@
     vue "3.3.4"
 
 "@plasmohq/storage@^1.9.0":
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/@plasmohq/storage/-/storage-1.9.0.tgz#b5fa788ffba6c53f741dbd57e0afa1ba74a2072d"
-  integrity sha512-mntoJ0EVh7JfYyMKWKnt6yqVlJnwavEkwdXssSOxS1CEeyNX2GPkXQfChvlGhuEJplqcRhLaym6rEc690Ao0fg==
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@plasmohq/storage/-/storage-1.15.0.tgz#a318743825056d9e8c77fbcdf3aef2807795e108"
+  integrity sha512-zBZ2NyVyvZlql2XHsjkZDL0+bqF6lir9RygeTnkYGF253M8DZttuSvjpsmpK6OWYmRXjhEqJeubd3+Zq9kuZ0w==
   dependencies:
     pify "6.1.0"
 
