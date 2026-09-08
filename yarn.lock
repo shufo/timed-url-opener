@@ -2103,14 +2103,14 @@
     config-chain "^1.1.11"
 
 "@primer/octicons-react@^19.8.0":
-  version "19.8.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-19.8.0.tgz#f76ec3b3c0bea0c6ceb147d7f2d989e5f149f7e5"
-  integrity sha512-2Z+D7xTloFTLQVRUEbg0pQpe6aTL9RR+8RqBhjkrF+BFuVdM1ENOyjywaGEO7DIkPU5Zxlv0gxSlD85LQxL+sw==
+  version "19.35.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons-react/-/octicons-react-19.35.0.tgz#382727c67e9d77f8c6f216dfa620ad2f3be861a2"
+  integrity sha512-HrNykL6EuWjffgONUx+qT5amdhKgVBPcU73Z1ppWve0n/DnZpAcxIDUKWn3hfSe/L9nXv+pKyY/i5Yu99ECHwQ==
 
 "@sinclair/typebox@^0.27.8":
-  version "0.27.8"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.8.tgz#6667fac16c436b5434a387a34dedb013198f6e6e"
-  integrity sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==
+  version "0.27.12"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.12.tgz#0cacd3cff047a32936b1ace47ea7c86eaab60a7f"
+  integrity sha512-hhyNJ+nbR6ZR7pToHvllEFun9TL0sbL+tk/ON75lo+Xas054uez98qRbsuNt7MBCyZKK4+8Yli/OAGZhmfBZ/g==
 
 "@sindresorhus/is@^5.2.0":
   version "5.6.0"
@@ -2118,9 +2118,9 @@
   integrity sha512-TV7t8GKYaJWsn00tFDqBw8+Uqmr8A0fRU1tvTQhyZzGv0sJCGRQL3JGMI3ucuKo3XIZdUP+Lx7/gh2t3lewy7g==
 
 "@sinonjs/commons@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-3.0.0.tgz#beb434fe875d965265e04722ccfc21df7f755d72"
-  integrity sha512-jXBtWAF4vmdNmZgD5FoKsVLv3rPgDnLgPbU84LIJ3otV44vJlDRokVng5v8NFJdCf/da9legHcKaRuZs4L7faA==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-3.0.1.tgz#1029357e44ca901a615585f6d27738dbc89084cd"
+  integrity sha512-K3mCHKQ9sVh8o1C9cxkwxaOmXoAMlDxC1mYyHrjqOWEcBjYr76t96zL2zlj5dUGZ3HSw240X1qgH3Mjf1yJWpQ==
   dependencies:
     type-detect "4.0.8"
 
